@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x94e050D2082E54aF7890341AB9a7A399659480Bb",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x94e050D2082E54aF7890341AB9a7A399659480Bb",
+  "CONTRACT_ADDRESS": "0x460112de251c4E6C35eCF59F7265181316036470",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x460112de251c4E6C35eCF59F7265181316036470",
   "NETWORK": {
     "NAME": "Testnet Rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "ThRAsh Hoodie",
-  "SYMBOL": "ThRAsh",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 30000000000000000,
-  "DISPLAY_COST": 0.03,
+  "NFT_NAME": "Maze",
+  "SYMBOL": "MAZE",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thrash-hoodies-v2",
